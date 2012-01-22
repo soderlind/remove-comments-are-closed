@@ -12,6 +12,8 @@ Remove the "Comments are closed" text from posts.
 
 On posts where comments are closed, the plugin will remove the text 'Comments are closed.' The plugin supports any languages/text domain, and will remove the text from themes and plugins.
 
+Prerequisite: Since the plugin is [filtering gettext](http://codex.wordpress.org/Plugin_API/Filter_Reference/gettext), your theme/plugin must be [localized](http://wp.smashingmagazine.com/2011/12/29/internationalizing-localizing-wordpress-theme/).
+
 View the plugin source code at the [plugin home page](http://soderlind.no/archives/2012/01/11/wordpress-plugin-remove-comments-are-closed/)
 
 == Installation ==
