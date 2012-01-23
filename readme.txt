@@ -30,5 +30,7 @@ View the plugin source code at the [plugin home page](http://soderlind.no/archiv
 
 == Changelog ==
 
+= 1.2 =
+* removed unnecessary code.
 = 1.1 = 
 * initial public release
