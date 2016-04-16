@@ -3,8 +3,8 @@ Contributors: PerS
 Donate link: http://soderlind.no/donate/
 Tags: comments, remove text, l10n, i18n
 Requires at least: 2.2.0
-Tested up to: 3.9
-Stable tag: 1.2.1
+Tested up to: 4.3
+Stable tag: 1.3.0
 
 Remove the "Comments are closed" text from posts.
 
@@ -29,6 +29,8 @@ View the plugin source code at the [plugin home page](http://soderlind.no/archiv
 * Click on install to install the plugin
 
 == Changelog ==
+= 1.2.2 =
+* Tested with 4.3
 = 1.2.1 =
 * Tested with 3.9, bumped version number
 = 1.2 =
