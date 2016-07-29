@@ -13,7 +13,7 @@ module.exports = function (grunt) {
 	 */
 	svn_files_list = [
 		'readme.txt',
-		'remove-comments-are-closed.php',
+		'remove-comments-are-closed.php'
 	];
 
 	/**
@@ -62,7 +62,7 @@ module.exports = function (grunt) {
 				expand: true,
 				src:  svn_files_list,
 				dest: 'build/<%= pkg.name %>/tags/<%= pkg.version %>/'
-			},
+			}
 
 		},
 		gittag: {
@@ -145,7 +145,7 @@ module.exports = function (grunt) {
 				dest: 'http://plugins.svn.wordpress.org/<%= pkg.name %>',
 				tmp: 'build/make_svn'
 			}
-		},
+		}
 	});
 
 
