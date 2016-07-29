@@ -3,7 +3,7 @@ Contributors: PerS
 Donate link: http://soderlind.no/donate/
 Tags: comments, remove text, l10n, i18n
 Requires at least: 2.2.0
-Tested up to: 4.5
+Tested up to: 4.6
 Stable tag: 1.3.1
 
 Remove the "Comments are closed" text from posts.
